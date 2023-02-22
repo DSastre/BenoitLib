@@ -1,7 +1,7 @@
 TITLE:: MandelTools
-summary:: (put short description here)
-categories:: Undocumented classes
-related:: Classes/SomeRelatedClass, Reference/SomeRelatedStuff, etc.
+summary:: The MandelTools offer several convenience tools like two different metronomes and a genre generator. 
+categories:: Libraries>BenoitLib
+related:: Classes/MandelHub
 
 DESCRIPTION::
 (put long description here)
