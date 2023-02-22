@@ -1,0 +1,62 @@
+TITLE:: MandelTools
+summary:: (put short description here)
+categories:: Undocumented classes
+related:: Classes/SomeRelatedClass, Reference/SomeRelatedStuff, etc.
+
+DESCRIPTION::
+(put long description here)
+
+
+CLASSMETHODS::
+
+METHOD:: new
+(describe method here)
+
+ARGUMENT:: hub
+(describe argument here)
+
+returns:: (describe returnvalue here)
+
+
+INSTANCEMETHODS::
+
+METHOD:: metro
+(describe method here)
+
+ARGUMENT:: pan
+(describe argument here)
+
+ARGUMENT:: quant
+(describe argument here)
+
+returns:: (describe returnvalue here)
+
+METHOD:: genres
+(describe method here)
+
+returns:: (describe returnvalue here)
+
+METHOD:: stopMetro
+(describe method here)
+
+returns:: (describe returnvalue here)
+
+METHOD:: init
+(describe method here)
+
+ARGUMENT:: a_hub
+(describe argument here)
+
+returns:: (describe returnvalue here)
+
+METHOD:: impulseMetro
+(describe method here)
+
+returns:: (describe returnvalue here)
+
+
+EXAMPLES::
+
+code::
+(some example code)
+::
